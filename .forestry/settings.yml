@@ -7,7 +7,6 @@ sections:
 - type: document
   path: pages/news.md
   label: News
-  match: "**/*"
 - type: document
   path: pages/assignments.md
   label: Assignments
