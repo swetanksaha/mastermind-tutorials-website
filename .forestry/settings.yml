@@ -7,7 +7,6 @@ sections:
 - type: document
   path: pages/faculty.md
   label: Faculty
-  match: "**/*"
 - type: document
   path: pages/index.md
   label: Home Page
