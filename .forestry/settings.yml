@@ -11,9 +11,6 @@ sections:
   path: pages/contact.md
   label: Contact Us
 - type: document
-  path: pages/courses.md
-  label: Courses
-- type: document
   path: pages/faculty.md
   label: Faculty
 - type: document
