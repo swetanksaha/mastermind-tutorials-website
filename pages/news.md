@@ -33,7 +33,7 @@ image:
 # Metainformation & Customization
 #
 meta_description:
-permalink: "/news/"
+permalink: "/news"
 ---
 
 ### Inaugration Ceremony

@@ -4,7 +4,7 @@ title: Contact Us
 #meta_title: Contact and use our contact form
 subheadline: MasterMind Tutorials
 teaser: Get in touch with us
-permalink: "/contact/"
+permalink: "/contact"
 ---
 
 Opposite Gokhale High School

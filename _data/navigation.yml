@@ -91,9 +91,9 @@
 #  side: right
 
 - title: "Contact"
-  url: "/contact/"
+  url: "/contact"
   side: right
 
 - title: "Student Testimonials"
-  url: "/testimonials/"
+  url: "/testimonials"
   side: right

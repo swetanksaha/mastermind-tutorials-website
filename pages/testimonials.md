@@ -4,7 +4,7 @@ title: Student Testimonials
 #meta_title: Contact and use our contact form
 subheadline: MasterMind Tutorials
 teaser: What our students have to say about us ...
-permalink: "/testimonials/"
+permalink: "/testimonials"
 ---
 
 <blockquote>

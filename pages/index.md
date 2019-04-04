@@ -8,7 +8,7 @@ widget1:
 widget3:
   title: Mrs. Swati Prasad
   image: swati-min.jpg
-permalink: "/index.html"
+permalink: "/"
 homepage: true
 
 ---
