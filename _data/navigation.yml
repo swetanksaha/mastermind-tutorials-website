@@ -1,5 +1,25 @@
-- title: Start
+- title: Home
   url: "/"
+  side: left
+
+- title: Courses
+  url: "/courses"
+  side: left
+
+- title: Admission
+  url: "/admission"
+  side: left
+
+- title: Faculty
+  url: "/faculty"
+  side: left
+
+- title: Assignments
+  url: "/assignments"
+  side: left
+
+- title: News/Updates
+  url: "/news"
   side: left
 
 - title: Getting Started
@@ -71,5 +91,9 @@
   side: right
 
 - title: "Contact"
+  url: "/contact/"
+  side: right
+
+- title: "Student Testimonials"
   url: "/contact/"
   side: right
