@@ -33,4 +33,4 @@ Teachers not only prove to guide the students in the classrooms but provide effe
 
 ### MOTIVATOR
 
-All of us at some point of time in our life tend to get low and find it difficult to get up, Simply hours of rigourous coaching and studying is not enough. There is a need to. Our faculty has counselled various parents and students over the years given their amount of experience and sheer expertise
+All of us at some point of time in our life tend to get low and find it difficult to get up, Simply hours of rigourous coaching and studying is not enough. There is a need to. Our faculty has counselled various parents and students over the years given their amount of experience and sheer expertise.
