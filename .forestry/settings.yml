@@ -5,26 +5,26 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: pages/news.md
-  label: News
-- type: document
-  path: pages/assignments.md
-  label: Assignments
+  path: pages/index.md
+  label: Home Page
 - type: document
   path: pages/courses.html
   label: Courses
 - type: document
-  path: pages/testimonials.md
-  label: Student Testimonials
+  path: pages/faculty.md
+  label: Faculty
+- type: document
+  path: pages/assignments.md
+  label: Assignments
+- type: document
+  path: pages/news.md
+  label: News
 - type: document
   path: pages/contact.md
   label: Contact Us
 - type: document
-  path: pages/faculty.md
-  label: Faculty
-- type: document
-  path: pages/index.md
-  label: Home Page
+  path: pages/testimonials.md
+  label: Student Testimonials
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
