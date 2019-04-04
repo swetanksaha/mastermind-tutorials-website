@@ -1,18 +1,20 @@
 ---
 layout: page-fullwidth
-title:  "Faculty"
-subheadline:  "MasterMind Tutorials"
-teaser: "Our strength lies in our team of dedicated, highly experienced and specialized experts, who are well versed with various examination pattern and the requirement of students to face the challenges with confidence."
+title: Faculty
+subheadline: MasterMind Tutorials
+teaser: Our strength lies in our team of dedicated, highly experienced and specialized
+  experts, who are well versed with various examination pattern and the requirement
+  of students to face the challenges with confidence.
 categories:
-    - design
+- design
 header:
-   image_fullwidth: banner.png
+  image_fullwidth: banner.png
+permalink: "/faculty"
 
-permalink: /faculty
 ---
 ### The Teaching Role
 
-The *teaching role* of faculty members reflect their centrality in addressing the primary educational mission among students. As faculty members teach, they disseminate and impart basic or applied knowledge to students and assist students with the learning process and applying the knowledge.
+The _teaching role_ of faculty members reflect their centrality in addressing the primary educational mission among students. As faculty members teach, they disseminate and impart basic or applied knowledge to students and assist students with the learning process and applying the knowledge.
 
 Our faculty is said to have a record of being:
 
