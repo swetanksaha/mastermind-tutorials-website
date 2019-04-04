@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: pages/courses.html
+  label: Courses
+  match: "**/*"
+- type: document
   path: pages/testimonials.md
   label: Student Testimonials
 - type: document
