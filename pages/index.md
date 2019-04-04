@@ -4,10 +4,10 @@ header:
   image_fullwidth: banner.png
 widget1:
   title: Mrs. Archana Rohatgi
-  image: widget-1-302x182.jpg
+  image: archana-min.jpg
 widget3:
   title: Mrs. Swati Prasad
-  image: widget-github-303x182.jpg
+  image: swati-min.jpg
 permalink: "/index.html"
 homepage: true
 
