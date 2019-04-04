@@ -7,7 +7,6 @@ sections:
 - type: document
   path: pages/testimonials.md
   label: Student Testimonials
-  match: "**/*"
 - type: document
   path: pages/contact.md
   label: Contact Us
