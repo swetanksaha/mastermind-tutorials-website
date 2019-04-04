@@ -7,11 +7,9 @@ sections:
 - type: document
   path: pages/contact.md
   label: Contact Us
-  match: "**/*"
 - type: document
   path: pages/courses.md
   label: Courses
-  match: "**/*"
 - type: document
   path: pages/faculty.md
   label: Faculty
