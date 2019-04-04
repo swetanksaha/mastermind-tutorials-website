@@ -1,18 +1,20 @@
 ---
 layout: page-fullwidth
-title:  "Faculty"
-subheadline:  "MasterMind Tutorials"
-teaser: "Our strength lies in our team of dedicated, highly experienced and specialized experts, who are well versed with various examination pattern and the requirement of students to face the challenges with confidence."
+title: Faculty
+subheadline: MasterMind Tutorials
+teaser: Our strength lies in our team of dedicated, highly experienced and specialized
+  experts, who are well versed with various examination pattern and the requirement
+  of students to face the challenges with confidence.
 categories:
-    - design
+- design
 header:
-   image_fullwidth: banner.png
+  image_fullwidth: banner.png
+permalink: "/faculty"
 
-permalink: /faculty
 ---
 ### The Teaching Role
 
-The *teaching role* of faculty members reflect their centrality in addressing the primary educational mission among students. As faculty members teach, they disseminate and impart basic or applied knowledge to students and assist students with the learning process and applying the knowledge.
+The _teaching role_ of faculty members reflect their centrality in addressing the primary educational mission among students. As faculty members teach, they disseminate and impart basic or applied knowledge to students and assist students with the learning process and applying the knowledge.
 
 Our faculty is said to have a record of being:
 
@@ -31,4 +33,4 @@ Teachers not only prove to guide the students in the classrooms but provide effe
 
 ### MOTIVATOR
 
-All of us at some point of time in our life tend to get low and find it difficult to get up, Simply hours of rigourous coaching and studying is not enough. There is a need to. Our faculty has counselled various parents and students over the years given their amount of experience and sheer expertise.
+All of us at some point of time in our life tend to get low and find it difficult to get up, Simply hours of rigourous coaching and studying is not enough. There is a need to. Our faculty has counselled various parents and students over the years given their amount of experience and sheer expertise
