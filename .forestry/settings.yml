@@ -4,12 +4,18 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Pages
-  create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
+- type: document
+  path: pages/contact.md
+  label: Contact Us
+- type: document
+  path: pages/courses.md
+  label: Courses
+- type: document
+  path: pages/faculty.md
+  label: Faculty
+- type: document
+  path: pages/index.md
+  label: Home Page
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
