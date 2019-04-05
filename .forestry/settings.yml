@@ -3,7 +3,35 @@ new_page_extension: md
 auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
-sections: 
+sections:
+- type: document
+  path: pages/testimonials.md
+  label: Student Testimonials
+  match: "**/*"
+- type: document
+  path: pages/contact.md
+  label: Contact Us
+  match: "**/*"
+- type: document
+  path: pages/news.md
+  label: News/Updates
+  match: "**/*"
+- type: document
+  path: pages/assignments.md
+  label: Assignments
+  match: "**/*"
+- type: document
+  path: pages/faculty.md
+  label: Faculty
+  match: "**/*"
+- type: document
+  path: pages/courses.html
+  label: Courses
+  match: "**/*"
+- type: document
+  path: pages/index.md
+  label: Home Page
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
