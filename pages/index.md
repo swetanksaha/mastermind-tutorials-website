@@ -13,7 +13,7 @@ homepage: true
 
 ---
 <p align="justify">
-MasterMind Tutorials was founded by Mrs. Archana Rohatgi and Mrs. Swati Prasad, having an experience of 25 years in the field of education, with the intention to change the scenario of highly commercialized education sector to its status of noble profession with the motive to provide best in class education for aspiring young minds.
+MasterMind Tutorials was founded by Mrs. Archana Rohatgi and Mrs. Swati Prasad, having  experience of 25 years in the field of education, with the intention to change the scenario of highly commercialized education sector to its status of noble profession with the motive to provide best in class education for aspiring young minds.
 <br>
 <br>
 We have created and nurtured special relationships with our students over the years. We lay special emphasis on small batch size, which helps us to give personal attention and care to each one of our student. We believe in continuous monitoring which can lead even an average student to reach the level of excellence.
