@@ -8,7 +8,7 @@ sections:
   path: pages/index.md
   label: Home Page
 - type: document
-  path: pages/courses.html
+  path: _data/courses.yml
   label: Courses
 - type: document
   path: pages/faculty.md
