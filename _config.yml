@@ -68,7 +68,9 @@ markdown: kramdown
 permalink: /:categories/:title/
 highlight: rouge
 excerpt_separator: "<!--more-->"
-include: ['.htaccess']
+include:
+    - .htaccess
+    - .admin
 # Exclude these files from your production _site
 exclude:
     - .sass-cache
@@ -77,7 +79,6 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
-
 
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'
@@ -180,7 +181,7 @@ msapplication_tilecolor:                '#fabb00'
 
 og_image:
 og_locale:
-og_type:                            
+og_type:
 
 
 #      _____            _       __   __  ___         ___
@@ -271,5 +272,3 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
-
-include: ['.htaccess']
