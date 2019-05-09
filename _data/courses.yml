@@ -1,36 +1,35 @@
+---
 - title: Boards
   items:
-    - CBSE
-    - ICSE
-    - STATE
-
+  - CBSE
+  - ICSE
+  - STATE
 - title: Classes
   items:
-    - VIII
-    - IX
-    - X
-    - XI
-    - XII
-
+  - VI
+  - VII
+  - VIII
+  - IX
+  - X
+  - XI
+  - XII
 - title: Subjects (VIII, IX, X)
   items:
-    - English
-    - Maths
-    - Science
-    - Social Studies
-
+  - English
+  - Maths
+  - Science
+  - Social Studies
 - title: Subjects (XI, XII)
   items:
-    - Physics
-    - Chemistry
-    - Mathematics
-    - Biology
-    - Computer Science
-
+  - Physics
+  - Chemistry
+  - Mathematics
+  - Biology
+  - Computer Science
 - title: Competitive Exams
   items:
-    - IIT-JEE
-    - MH-CET
-    - Oympiads
-    - NTSE
-    - IJSO
+  - IIT-JEE
+  - MH-CET
+  - Oympiads
+  - NTSE
+  - IJSO
