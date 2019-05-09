@@ -11,11 +11,11 @@ permalink: "/assignments"
 ---
 ### Class 6
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=11Ozs1pxS3nmDvQ9jmcldaxG9eUev2-Jp#list" style="width:100%; height:300px; border:0;"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=17slAHDnVdVMwlPAHGOFgv4wGEixl1cwm-Jp#list" style="width:100%; height:300px; border:0;"></iframe>
 
 ### Class 7
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=11Ozs1pxS3nmDvQ9jmcldaxG9eUev2-Jp#list" style="width:100%; height:300px; border:0;"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=1IRy0jkW-MbFD0XFRCajN2-ukgJslWNqI-Jp#list" style="width:100%; height:300px; border:0;"></iframe>
 
 ### Class 8
 
